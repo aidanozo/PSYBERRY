@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<user_profile>
+    <general_attributes>
+        <first_name>Aida</first_name>
+        <last_name>Nozhor</last_name>
+        <age>22</age>
+        <gender>Feminin</gender>
+        <personal_interests>Detinerea de animale de companie (caine si pisica)</personal_interests>
+        <core_values />
+        <leisure_activities />
+    </general_attributes>
+    <psychological_profile>
+        <personality_traits>
+            <big_five>
+                <openness>
+                    <level />
+                    <notes />
+                </openness>
+                <conscientiousness>
+                    <level />
+                    <notes />
+                </conscientiousness>
+                <extraversion>
+                    <level />
+                    <notes />
+                </extraversion>
+                <agreeableness>
+                    <level />
+                    <notes />
+                </agreeableness>
+                <neuroticism>
+                    <level />
+                    <notes />
+                </neuroticism>
+            </big_five>
+            <_16PF>
+                <warmth>
+                    <level />
+                </warmth>
+                <reasoning>
+                    <level />
+                </reasoning>
+                <emotional_stability>
+                    <level />
+                </emotional_stability>
+                <dominance>
+                    <level />
+                </dominance>
+                <liveliness />
+                <rule_consciousness />
+                <social_boldness />
+                <sensitivity />
+                <vigilance />
+                <abstractedness />
+                <privateness />
+                <apprehension />
+                <openness_to_change />
+                <self_reliance />
+                <perfectionism />
+                <tension />
+            </_16PF>
+        </personality_traits>
+        <objectives />
+        <challenges />
+        <core_strengths />
+        <fears>Viitorul</fears>
+        <weaknesses />
+        <traumas />
+    </psychological_profile>
+    <family_and_romantic_context>
+        <family_structure>
+            <siblings />
+            <parents />
+            <grandparents />
+        </family_structure>
+        <romantic_relationships>
+            <current_partner />
+            <past_partners />
+        </romantic_relationships>
+        <relational_concerns />
+    </family_and_romantic_context>
+    <social_context>
+        <key_friendships />
+        <social_engagement />
+        <interpersonal_issues />
+    </social_context>
+    <academic_trajectory>
+        <current_educational_pursuits>Studenta</current_educational_pursuits>
+        <academic_motivators />
+        <academic_stress_factors />
+        <academic_aspirations />
+    </academic_trajectory>
+    <professional_identity>
+        <occupational_status />
+        <workplace_dynamics />
+        <occupational_satisfaction />
+        <professional_objectives />
+    </professional_identity>
+</user_profile>
